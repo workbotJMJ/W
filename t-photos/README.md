@@ -1,4 +1,4 @@
 Team's photos
 ====
-
-This directory must contain 2 photos of the team (an official one and one funny photo with all team members)
+![image](https://github.com/workbotJMJ/W/assets/141054617/d237d5f3-d959-4c3e-bed1-36343e38d90a)
+![image](https://github.com/workbotJMJ/W/assets/141054617/3c46a38e-6bf8-4d46-a922-14dd9f2b8ea9)
