@@ -23,7 +23,7 @@ motor grande
 LOS PROCESOS PARA  CONSTRUIR/COMPILAR/CARGAR EL CÓDIGO AL SISTEMA DEL VEHICULO
 utilizamos el lego mindstormsm education y luego se presiona el boton ( descargar y compilar)
 y se conecta al cerebro via bluetooth. 
-## How to prepare the repo based on the template
+
 
 _Remove this section before the first commit to the repository_
 
