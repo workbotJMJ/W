@@ -6,18 +6,18 @@ Engineering materials
 
 ## Introduction
 El código esta compuesto por:
-BLOQUES DE ACCIÓN
+-BLOQUES DE ACCIÓN
 + Motor mediano
 + Motor grande
-BLOQUES DE FLUJO
+-BLOQUES DE FLUJO
 + Iniciar
 + Esperar
 + Bucle
-BLOQUES DE SENSORES
+-BLOQUES DE SENSORES
 + Sensor de color
 + Temporizador
 + Sensor ultrasónico
-  LOS COMPONENTES ELECTROMECANICOS 
+ - LOS COMPONENTES ELECTROMECANICOS 
 una cerebro EV3
 2 sensores de color
 motor mediano
